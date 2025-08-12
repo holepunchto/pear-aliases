@@ -2,12 +2,12 @@
 
 > pear://<alias> list
 
-# Usage
+## Usage
 
 ```js
 const { ALIASES, EOLS } = require('pear-aliases')
 ```
 
-# License
+## License
 
 Apache-2.0
