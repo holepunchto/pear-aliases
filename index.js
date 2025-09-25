@@ -6,7 +6,7 @@ exports.ALIASES = {
   keet: hypercoreid.decode('oeeoz3w6fjjt7bym3ndpa6hhicm8f8naxyk11z4iypeoupn6jzpo'),
   runtime: hypercoreid.decode('rbw6fbxorqgjgyitworh3f73utc5cu7sczhptn64oonbznuojiao'),
   doctor: hypercoreid.decode('ouenymy889n4ri9g74jm5bcr46wc6hqnxadqhfmbc4xbskerehby'),
-  electron: hypercoreid.decode('goowesg5dga9j1ryx47rsk9o4zms4541me4zerxsnbu8u99duh4o')
+  electron: hypercoreid.decode('cktxzetiwt6un3ado5kgqedge6ya4nfazjckzq76zcapefwxakdy')
 }
 
 exports.EOLS = {
