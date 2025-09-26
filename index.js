@@ -15,7 +15,7 @@ exports.ALIASES = {
     'ouenymy889n4ri9g74jm5bcr46wc6hqnxadqhfmbc4xbskerehby'
   ),
   electron: hypercoreid.decode(
-    'goowesg5dga9j1ryx47rsk9o4zms4541me4zerxsnbu8u99duh4o'
+    'cktxzetiwt6un3ado5kgqedge6ya4nfazjckzq76zcapefwxakdy'
   )
 }
 
