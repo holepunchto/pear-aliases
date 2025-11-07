@@ -3,7 +3,7 @@ const hypercoreid = require('hypercore-id-encoding')
 
 exports.ALIASES = {
   pear: hypercoreid.decode(
-    'z7d3kb3ew4tnjkqxck16apzou7k1748zr9ah44ujmbnnpzzg9wbo'
+    'pzcjqmpoo6szkoc4bpkw65ib9ctnrq7b6mneeinbhbheihaq6p6o'
   ),
   keet: hypercoreid.decode(
     'oeeoz3w6fjjt7bym3ndpa6hhicm8f8naxyk11z4iypeoupn6jzpo'
