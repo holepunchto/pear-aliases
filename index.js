@@ -9,10 +9,13 @@ exports.ALIASES = {
     'oeeoz3w6fjjt7bym3ndpa6hhicm8f8naxyk11z4iypeoupn6jzpo'
   ),
   runtime: hypercoreid.decode(
-    'rbw6fbxorqgjgyitworh3f73utc5cu7sczhptn64oonbznuojiao'
+    'qz5ihrqfmwtp4q36hnjaht1edur6c7w11dbb7ym9jqaex71wogso'
   ),
   doctor: hypercoreid.decode(
-    'ouenymy889n4ri9g74jm5bcr46wc6hqnxadqhfmbc4xbskerehby'
+    'fs1xuyzx6c9mu6zu6t5ubhkcbzz913h814te9ay9zzbc9hzf15fo'
+  ),
+  templates: hypercoreid.decode(
+    'z7n5sgqipwaejgonu6hh4baw95imy8dicj8678tej98itbs9tcgy'
   ),
   electron: hypercoreid.decode(
     'cktxzetiwt6un3ado5kgqedge6ya4nfazjckzq76zcapefwxakdy'
