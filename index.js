@@ -25,7 +25,7 @@ exports.ALIASES = {
   ),
   build: hypercoreid.decode(
     '...'
-  ),
+  )
 }
 
 exports.EOLS = {
