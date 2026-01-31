@@ -23,9 +23,7 @@ exports.ALIASES = {
   pass: hypercoreid.decode(
     'tywsat7gz8m65ejx4zjn3773pbdc4j8m66tukis8dgzekraymtzo'
   ),
-  build: hypercoreid.decode(
-    '...'
-  )
+  build: hypercoreid.decode('...')
 }
 
 exports.EOLS = {
